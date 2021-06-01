@@ -1,5 +1,6 @@
 # Growth mindset
 
+
 Growth mindset is how [successful peaple](https://www.businessinsider.com/most-successful-people-in-the-world-from-past-year-2019-4) think of life, work and projects. it is an approach to life to become better as a person and a professionl. People that adopt growth mindset are more focused when they face obstacles or challenges. They dont try to avoid them but face them and look for other ways to solve them. They are not threatened by other's success and they don't see them as adversaries but appreciate thier part of being of a team and how eventually the work of all colleagues is meant to produce great work. 
 They are doers not ~~slackers~~. They adopt the no gain, no pain idea. They prefer the long term satisfaction of great effort than the mearly instantaneous pleasure of relief or sleep.
 
