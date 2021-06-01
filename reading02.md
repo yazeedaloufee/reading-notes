@@ -1,4 +1,4 @@
-# Seeing your remote
+# Reading 2
 
 ## Terminals
 we have learned some commands to use in terminals such as ubunto and shell on replit.com
