@@ -7,7 +7,7 @@ Hello. My name is Yazeed Aloufee. I am an Electronics Engineer. I have worked in
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| reading 1     | [growth mindset](https://yazeedaloufee.github.io/reading-notes/readme )      |
+| reading 1     | [growth mindset](https://yazeedaloufee.github.io/reading-notes/ )      |
 | reading 2   | [mastering markdown](https://yazeedaloufee.github.io/reading-notes/reading) 
 | reading 3   | [Git/Seeing Your remotes](https://yazeedaloufee.github.io/reading-notes/reading02)| 
 
