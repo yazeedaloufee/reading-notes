@@ -7,10 +7,16 @@ Hello. My name is Yazeed Aloufee. I am an Electronics Engineer. I have worked in
 
 | Syntax      | Description |
 | ----------- | ----------- |
+<<<<<<< HEAD
 | reading 0     | [growth mindset](https://yazeedaloufee.github.io/reading-notes/ )      |
 | reading 1   | [mastering markdown](https://yazeedaloufee.github.io/reading-notes/reading) 
 | reading 2   | [Git/Seeing Your remotes](https://yazeedaloufee.github.io/reading-notes/reading02)| 
 | reading 3     | [Structure web pages with HTML](https://yazeedaloufee.github.io/reading-notes/reading03) |
 | reading 4     | [Design web pages with CSS](https://yazeedaloufee.github.io/reading-notes/reading02 )|
 
+=======
+| reading 1     | [growth mindset](https://yazeedaloufee.github.io/reading-notes/ )      |
+| reading 2   | [mastering markdown](https://yazeedaloufee.github.io/reading-notes/reading) 
+| reading 3   | [Git/Seeing Your remotes](https://yazeedaloufee.github.io/reading-notes/reading02)| 
+>>>>>>> 99ef7166598d81facc763b309f73889856dff684
 
