@@ -12,5 +12,7 @@ Hello. My name is Yazeed Aloufee. I am an Electronics Engineer. I have worked in
 | reading 2   | [Git/Seeing Your remotes](https://yazeedaloufee.github.io/reading-notes/reading02)| 
 | reading 3     | [Structure web pages with HTML](https://yazeedaloufee.github.io/reading-notes/reading03) |
 | reading 4     | [Design web pages with CSS](https://yazeedaloufee.github.io/reading-notes/reading04 )|
-| reading 5     | [Design web pages with CSS](https://yazeedaloufee.github.io/reading-notes/reading05 )|
+| reading 6    | [Java Script](https://yazeedaloufee.github.io/reading-notes/reading05 )|
+| reading 7    | [Programming with JavaScript](https://yazeedaloufee.github.io/reading-notes/reading06 )|
+| reading 8    | [Operators and Loops](https://yazeedaloufee.github.io/reading-notes/reading06 )|
 
