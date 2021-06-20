@@ -17,8 +17,12 @@ Hello. My name is Yazeed Aloufee. I am an Electronics Engineer. I have worked in
 | reading 8    | [Operators and Loops](https://yazeedaloufee.github.io/reading-notes/reading06 )|
 
 ## reading notes 201
+
 | Reading #   | Description |
-| ----------- | ----------- |
+| ------------| ----------- |
 | reading 1   | [Introductory HTML and JavaScript](https://yazeedaloufee.github.io/reading-notes/reading201-01 )      |
 
-
+| Reading number      | Description |
+| ----------- | ----------- |
+| reading 1      | [Introductory HTML and JavaScript](https://yazeedaloufee.github.io/reading-notes/reading201-01 )      |
+| Paragraph   | Text        |
