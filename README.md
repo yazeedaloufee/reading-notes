@@ -19,6 +19,6 @@ Hello. My name is Yazeed Aloufee. I am an Electronics Engineer. I have worked in
 ## reading notes 201
 | Syntax      | Description |
 | ----------- | ----------- |
-| reading 1     | [Introductory HTML and JavaScript](https://yazeedaloufee.github.io/reading-notes/reading201-01 )      |
+| reading 1   | [Introductory HTML and JavaScript](https://yazeedaloufee.github.io/reading-notes/reading201-01 )      |
 
 
