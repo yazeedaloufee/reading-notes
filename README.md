@@ -5,7 +5,7 @@ Hello. My name is Yazeed Aloufee. I am an Electronics Engineer. I have worked in
 
 ## reading notes 102
 
-| Syntax      | Description |
+| reading #      | Description |
 | ----------- | ----------- |
 | reading 0     | [growth mindset](https://yazeedaloufee.github.io/reading-notes/reading01 )      |
 | reading 1   | [mastering markdown](https://yazeedaloufee.github.io/reading-notes/reading) 
@@ -17,7 +17,7 @@ Hello. My name is Yazeed Aloufee. I am an Electronics Engineer. I have worked in
 | reading 8    | [Operators and Loops](https://yazeedaloufee.github.io/reading-notes/reading06 )|
 
 ## reading notes 201
-| Syntax      | Description |
+| reading #      | Description |
 | ----------- | ----------- |
 | reading 1   | [Introductory HTML and JavaScript](https://yazeedaloufee.github.io/reading-notes/reading201-01 )      |
 
