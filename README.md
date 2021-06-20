@@ -1,15 +1,24 @@
-# Growth mindset
+# About Yazeed Aloufee  
+Hello. My name is Yazeed Aloufee. I am an Electronics Engineer. I have worked in Education as a teaching and research assistant at the German Jordanian university. My last occupation was a mathematics Teacher at the Canadian international school. My computer is running on windows 10 Home 64.I joined this course because it provides a clear bath to start a career in software development. I will dream big and say my goal is to work at renowned companies.
+
+#### Visit my GitHub [***profile***](https://github.com/yazeedaloufee)
+
+## reading notes 102
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| reading 0     | [growth mindset](https://yazeedaloufee.github.io/reading-notes/reading01 )      |
+| reading 1   | [mastering markdown](https://yazeedaloufee.github.io/reading-notes/reading) 
+| reading 2   | [Git/Seeing Your remotes](https://yazeedaloufee.github.io/reading-notes/reading02)| 
+| reading 3     | [Structure web pages with HTML](https://yazeedaloufee.github.io/reading-notes/reading03) |
+| reading 4     | [Design web pages with CSS](https://yazeedaloufee.github.io/reading-notes/reading04 )|
+| reading 6    | [Java Script](https://yazeedaloufee.github.io/reading-notes/reading05 )|
+| reading 7    | [Programming with JavaScript](https://yazeedaloufee.github.io/reading-notes/reading06 )|
+| reading 8    | [Operators and Loops](https://yazeedaloufee.github.io/reading-notes/reading06 )|
+
+## reading notes 201
+| Syntax      | Description |
+| ----------- | ----------- |
+| reading 1     | [Introductory HTML and JavaScript](https://yazeedaloufee.github.io/reading-notes/reading201-01 )      |
 
 
-Growth mindset is how [successful peaple](https://www.businessinsider.com/most-successful-people-in-the-world-from-past-year-2019-4) think of life, work and projects. it is an approach to life to become better as a person and a professionl. People that adopt growth mindset are more focused when they face obstacles or challenges. They dont try to avoid them but face them and look for other ways to solve them. They are not threatened by other's success and they don't see them as adversaries but appreciate thier part of being of a team and how eventually the work of all colleagues is meant to produce great work. 
-They are doers not ~~slackers~~. They adopt the no gain, no pain idea. They prefer the long term satisfaction of great effort than the mearly instantaneous pleasure of relief or sleep.
-
-## Things to remember:
-1. dont get threatened by success of others, be inspired by them.
-2. _**no pain, no gain**_. keep up at it. do your best. spend time Learning. It will eventually pay off!
-3. be aware instant gratification monkey syndrome:see_no_evil:. It happens when  you start to lose focus or avoid working and you start slacking.
-
-
-
-### Growth mindset mind map:
-![Growth mindset mind map](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=800%2C1000&ssl=1)
