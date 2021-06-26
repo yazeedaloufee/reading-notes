@@ -22,6 +22,9 @@ Hello. My name is Yazeed Aloufee. I am an Electronics Engineer. I have worked in
 | ------------| ----------- |
 | reading 1   | [Introductory HTML and JavaScript](https://yazeedaloufee.github.io/reading-notes/reading201-01 )      |
 | reading 2    | [Basics of HTML, CSS & JS](https://yazeedaloufee.github.io/reading-notes/reading201-02 )|
+| reading 3    | [html lists](https://yazeedaloufee.github.io/reading-notes/reading201-03 )|
+| reading 4    | [html lists](https://yazeedaloufee.github.io/reading-notes/reading201-04 )|
+| reading 5    | [html lists](https://yazeedaloufee.github.io/reading-notes/reading201-05 )|
 
 ## reading notes 301
 
