@@ -1,4 +1,4 @@
- # Problem Domain, Objects, and the DOM
+# Problem Domain, Objects, and the DOM
  ## problem domain
  * programing is easy if you understand the problem domain. 
  * we can make th eproblem domian easier  by breaking it down to smaller problems.
