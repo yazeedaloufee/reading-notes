@@ -25,6 +25,7 @@ Hello. My name is Yazeed Aloufee. I am an Electronics Engineer. I have worked in
 | reading 3    | [html lists](https://yazeedaloufee.github.io/reading-notes/reading201-03 )|
 | reading 4    | [html lists](https://yazeedaloufee.github.io/reading-notes/reading201-04 )|
 | reading 5    | [html lists](https://yazeedaloufee.github.io/reading-notes/reading201-05 )|
+| reading 6    | [ Problem Domain, Objects, and the DOM](https://yazeedaloufee.github.io/reading-notes/reading201-06 )|
 
 ## reading notes 301
 
