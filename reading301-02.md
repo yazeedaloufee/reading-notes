@@ -26,8 +26,10 @@
 
 ### What is the big difference between props and state?
         props can be changed outside the component but you manipulate state inside the component.
+
 ### When do we re-render our application?
- when we need to update the component bases on user interaction.
+    when we need to update the component bases on user interaction.
+
 ### What are some examples of things that we could store in state? 
     a counter.
 
