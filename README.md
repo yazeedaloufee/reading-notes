@@ -33,7 +33,7 @@ Hello. My name is Yazeed Aloufee. I am an Electronics Engineer. I have worked in
 | Reading #      | Description |
 | ------------| ----------- |
 | react      | [topic one](https://yazeedaloufee.github.io/reading-notes/reading301-01 )      |
-| Paragraph   | Text        |
+| reading 2   | [React state](https://yazeedaloufee.github.io/reading-notes/reading301-02 )     |
 
 ## reading notes 401
 
