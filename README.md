@@ -34,6 +34,8 @@ Hello. My name is Yazeed Aloufee. I am an Electronics Engineer. I have worked in
 | ------------| ----------- |
 | react      | [topic one](https://yazeedaloufee.github.io/reading-notes/reading301-01 )      |
 | reading 2   | [React state](https://yazeedaloufee.github.io/reading-notes/reading301-02 )     |
+| react      | [topic one](https://yazeedaloufee.github.io/reading-notes/reading301-01 )      |
+| Reading 4    | [Forms ternary and conditional rendering](https://yazeedaloufee.github.io/reading-notes/reading301-04 )      |
 
 ## reading notes 401
 
