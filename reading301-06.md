@@ -18,7 +18,10 @@
  ### What is node used for?
 * node is  a sensible development environment in which many packages and frameworks like react and angular need to run.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 58b0566f5f7d43e5a3d6f3a948edb84ce0edade3
 # [6 Reasons for Pair Programming](Canvas.instructure.com/courses/2878697)
 ### What are the 6 reasons for pair programming?
 1. efficiency 
@@ -36,10 +39,17 @@
 1. More about how node work exactly.
 2. How to Sdeploy pair programing for job readiness.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 58b0566f5f7d43e5a3d6f3a948edb84ce0edade3
 ## more Reading
 * [Geocoding API Docs](https://locationiq.com/)
 * [Axios docs](https://www.npmjs.com/package/axios)
 * [MDN async and await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_awaitS)
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 58b0566f5f7d43e5a3d6f3a948edb84ce0edade3
