@@ -39,6 +39,8 @@ Hello. My name is Yazeed Aloufee. I am an Electronics Engineer. I have worked in
 | Reading 5    | [React Docs - thinking in React](https://yazeedaloufee.github.io/reading-notes/reading301-05 )      |
 | Reading 6    | [Node.js](https://yazeedaloufee.github.io/reading-notes/reading301-06 )      |
 
+| Reading 11   | [mongo and mongoose(https://yazeedaloufee.github.io/reading-notes/reading301-11 )      |
+
 
 ## reading notes 401
 
