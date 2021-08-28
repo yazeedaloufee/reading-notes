@@ -2,7 +2,7 @@
 | SQL     | NoSQL |
 | ------------| ----------- |
 | Relational Databases (RDBMS)     |    non-relational or distributed database.  |
-| table based databases    his means that SQL databases represent data in form of tables which consists of n number of rows of data whereas   | are document based   key-value pairs, graph databases or wide-column stores NoSQL databases are the collection of key-value pair, documents, graph databases or wide-column stores which do not have standard schema definitions which it needs to adhered to.  |
+| table based databases    his means that SQL databases represent data in form of tables which consists of n number of rows of data whereas   | are document based   key-value pairs, graph databases or wide-column stores NoSQL databases are the collection of key-value pair, documents, graph databases or wide-column stores which do not have standard schema definitions which it needs to adhered to.  
 | SQL databases have predefined schema whereas   |     have dynamic schema for unstructured data.  |
 | vertically scalable    |   databases are horizontally scalable    |
 | scaled by increasing the horse-power of the hardware      |    increasing the databases servers in the pool of resources to reduce the load  |
