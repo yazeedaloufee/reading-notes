@@ -41,7 +41,7 @@ Hello. My name is Yazeed Aloufee. I am an Electronics Engineer. I have worked in
 | Reading 6    | [Node.js](https://yazeedaloufee.github.io/reading-notes/reading301-06 )      |
 | Reading 11   | [mongo and mongoose](https://yazeedaloufee.github.io/reading-notes/reading301-11 )      |
 | Reading 12   | [CRUD](https://yazeedaloufee.github.io/reading-notes/reading301-12 )      |
-| Reading 12   | [Diversity & Inclusion in the Tech Industry](https://yazeedaloufee.github.io/reading-notes/reading301-13 )      |
+| Reading 13   | [Diversity & Inclusion in the Tech Industry](https://yazeedaloufee.github.io/reading-notes/reading301-13 )      |
 
 
 
