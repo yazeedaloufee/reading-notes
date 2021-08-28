@@ -16,6 +16,7 @@ Hello. My name is Yazeed Aloufee. I am an Electronics Engineer. I have worked in
 | reading 7    | [Programming with JavaScript](https://yazeedaloufee.github.io/reading-notes/reading06 )|
 | reading 8    | [Operators and Loops](https://yazeedaloufee.github.io/reading-notes/reading06 )|
 
+
 ## reading notes 201
 
 | Reading #   | Description |
@@ -40,6 +41,8 @@ Hello. My name is Yazeed Aloufee. I am an Electronics Engineer. I have worked in
 | Reading 6    | [Node.js](https://yazeedaloufee.github.io/reading-notes/reading301-06 )      |
 | Reading 11   | [mongo and mongoose](https://yazeedaloufee.github.io/reading-notes/reading301-11 )      |
 | Reading 12   | [CRUD](https://yazeedaloufee.github.io/reading-notes/reading301-12 )      |
+| Reading 12   | [Diversity & Inclusion in the Tech Industry](https://yazeedaloufee.github.io/reading-notes/reading301-13 )      |
+
 
 
 ## reading notes 401
